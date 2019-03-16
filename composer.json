@@ -1,18 +1,18 @@
 {
-    "name": "dotzero/yii2-amocrm",
+    "name": "ar2rsoft/yii2-amocrm",
     "description": "Расширение для Yii Framework 2 реализующее клиент для работы с API amoCRM",
     "license": "MIT",
     "keywords": ["yii2", "extension", "amocrm", "crm", "api"],
     "type": "yii2-extension",
     "authors": [
         {
-            "name": "dotzero",
-            "email": "mail@dotzero.ru"
+            "name": "ar2rsoft",
+            "email": "ar2rsoft@gmail.com"
         }
     ],
     "require": {
         "php": ">=5.5.0",
-        "dotzero/amocrm": "0.3.*",
+        "ar2rsoft/amocrm": "0.3.*",
         "yiisoft/yii2": "*"
     },
     "require-dev": {
