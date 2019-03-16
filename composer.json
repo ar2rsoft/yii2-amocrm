@@ -12,7 +12,7 @@
     ],
     "require": {
         "php": ">=5.5.0",
-        "ar2rsoft/amocrm": "0.3.*",
+        "ar2rsoft/amocrm": "dev-master",
         "yiisoft/yii2": "*"
     },
     "require-dev": {
